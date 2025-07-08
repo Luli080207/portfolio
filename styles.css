@@ -46,8 +46,8 @@ nav a {
   margin-top: 1rem;
   padding: 0.6rem 1.2rem;
   background-color: #ffffff;
-  color: #d14d72;
-  border: 2px solid#d14d72;
+  color: #c5a8d3;
+  border: 2px solid#b199a0;
   border-radius: 6px;
   font-weight: 500;
   text-decoration: none;
@@ -72,7 +72,7 @@ section {
 
 section h2 {
   margin-bottom: 1rem;
-  color: #7e5aa0;
+  color: #e9d2ff;
   font-size: 1.8rem;
   font-weight: 600;
 }
@@ -82,7 +82,7 @@ section h2 {
 }
 
 .social-icons a {
-color: #d14d72;
+color: #ae97bb;
 font-size: 1.5rem;
 margin: 0 10px;
 text-decoration: none;
