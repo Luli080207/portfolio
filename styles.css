@@ -34,3 +34,37 @@ nav ul li {
   display: inline-block;
   margin: 0 12px;
 }
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.cv {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.6rem 1.2rem;
+  background-color: #ffffff;
+  color: #d14d72;
+  border: 2px solid#d14d72;
+  border-radius: 6px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color 0.3s ease;
+}
+
+.cv:hover {
+  background-color: #f7c9d8;
+}
+
+main {
+  padding: 2rem;
+}
+
+section {
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
