@@ -12,3 +12,10 @@ body {
   color: #333;
   line-height: 1.6;
 }
+
+header {
+  background-color: #f7c9d8;
+  color: #333;
+  padding: 2rem 1rem;
+  text-align: center
+}
